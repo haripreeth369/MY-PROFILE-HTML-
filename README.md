@@ -29,6 +29,6 @@
    <input type="email" id="email" name="email" required>
 
 4. **Subject:**
-   <textarea id="subject" name="subject" required></textarea>
+   
 
    
