@@ -31,4 +31,4 @@
 4. **Subject:**
    <textarea id="subject" name="subject" required></textarea>
 
-   <input type="submit" value="Submit">
+   
