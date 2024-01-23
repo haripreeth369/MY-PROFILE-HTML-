@@ -17,7 +17,7 @@
 | Senior Secoundary(XII)  | [Narayana Collage](https://www.narayanagroup.com/)      | 2019 | 94.6%           |
 | Secoundary(X)           | [Triveni Talent School](https://trivenitalentschools.com/) | 2017 | 95%             |
 
-## Contact Us
+## Contact Me
 ### Contact Form
 1. **Name:**
    <input type="text" id="name" name="name" required>
